@@ -1,6 +1,5 @@
 # Luan T. da Silveira Campos
 
-![Luan Tobias](https://avatars.githubusercontent.com/u/146026158?s=400&u=a87acab93d9b502edbc08ad7a07efacebc1046d5&v=4)
 
 ## Sobre Mim
 
