@@ -9,11 +9,11 @@ Olá! Eu sou Luan Tobias, um entusiasta de tecnologia apaixonado por desenvolvim
 
 ### Tecnologias que domino 💻
 
-- ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
-- ![Laravel](https://img.icons8.com/fluency/48/000000/laravel.png) Laravel
-- ![Symfony](https://img.icons8.com/ios-filled/50/000000/symfony.png) Symfony
-- ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) MySQL
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript (básico)
+- **PHP:** ![PHP](https://img.icons8.com/color/48/000000/php.png)
+- **Laravel:** ![Laravel](https://img.icons8.com/fluency/48/000000/laravel.png)
+- **Symfony:** ![Symfony](https://img.icons8.com/ios-filled/50/000000/symfony.png)
+- **MySQL:** ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png)
+- **JavaScript (básico):** ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 
 ## Contato 📫
 
