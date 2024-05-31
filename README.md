@@ -1,6 +1,5 @@
 # Luan T. da Silveira Campos
 
-
 ## Sobre Mim
 
 Olá! Eu sou Luan Tobias, um entusiasta de tecnologia apaixonado por desenvolvimento de software. Possuo conhecimentos mais focados para o backend, mas também tenho sólidos conhecimentos com CSS e Bootstrap.
@@ -10,11 +9,11 @@ Olá! Eu sou Luan Tobias, um entusiasta de tecnologia apaixonado por desenvolvim
 
 ### Tecnologias que domino
 
-- PHP
-- Laravel
-- Symfony
-- MySQL
-- JavaScript (básico)
+- ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
+- ![Laravel](https://img.icons8.com/fluency/48/000000/laravel.png) Laravel
+- ![Symfony](https://img.icons8.com/ios-filled/50/000000/symfony.png) Symfony
+- ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) MySQL
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript (básico)
 
 ## Contato
 
@@ -23,4 +22,4 @@ Olá! Eu sou Luan Tobias, um entusiasta de tecnologia apaixonado por desenvolvim
 
 ## Estatísticas do Repositório
 
-![Estatísticas do Repositório](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanzinDEV&layout=compact)
+![Estatísticas do Repositório](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanzinDEV&layout=compact&theme=dark)
