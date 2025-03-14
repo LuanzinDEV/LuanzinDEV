@@ -4,16 +4,18 @@
 
 Olá! Eu sou Luan Tobias, um entusiasta de tecnologia apaixonado por desenvolvimento de software. Possuo conhecimentos mais focados para o backend, mas também tenho sólidos conhecimentos com CSS e Bootstrap.
 
-- 👨‍💻 Atualmente estou à procura de um emprego.
 - 📍 Caratinga, MG - Brasil.
   
 ### Tecnologias que domino 💻
 
 - PHP
 - Laravel
-- Symfony
 - MySQL
-- JavaScript (básico)
+- JavaScript (intermediario)
+- HTML 
+- CSS
+- Jquery(basico)
+
 ## Contato 📫
 
 - LinkedIn: [Luan Tobias](https://www.linkedin.com/in/tauangabriel/)
